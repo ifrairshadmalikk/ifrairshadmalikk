@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ifrairshadmalikk/ifrairshadmalikk/blob/main/assets/tech-border.png?raw=true" width="100%" />
+  <img src="https://github.com/ifrairshadmalikk/ifrairshadmalikk/blob/main/assets/—Pngtree—purple star universe rocket nebula_6222115.png?raw=true" width="100%" />
 </p>
 
 
