@@ -8,7 +8,6 @@
 </p>
 
 
----
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
@@ -25,7 +24,7 @@
 - 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
----
+
 
 ### 🛠️ Languages and Tools:
 
@@ -49,16 +48,20 @@
 </p>
 
 
----
 
 ### 📈 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ifrairshadmalikk&show_icons=true&theme=radical&locale=en" alt="ifrairshadmalikk GitHub stats" />
 </p>
 
----
 
 ### ✨ GitHub Profile Visitors:
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
+
+
+<p align="center">
+  <img src="https://i.pinimg.com/474x/45/61/69/456169da45580511e0f26cd740edaee5.jpg" alt="Decorative Border" width="100%" />
+</p>
+
