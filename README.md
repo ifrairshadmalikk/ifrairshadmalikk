@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://github.com/ifrairshadmalikk/ifrairshadmalikk/blob/main/%E2%80%94Pngtree%E2%80%94purple%20star%20universe%20rocket%20nebula_6222115.png?raw=true" width="100%" />
-</p>
 
-<div align="center" style="background-color: rgba(255, 255, 255, 0.85); border-radius: 15px; padding: 20px; max-width: 900px; margin: auto;">
   
-<!-- Your full README content here, for example: -->
 
 <img src="https://i.pinimg.com/originals/2c/ac/d1/2cacd1d21f700e15b8f1e9baecb7ae02.gif" width="190" />
 
@@ -34,4 +29,8 @@
 
 <img src="https://komarev.com/ghpvc/?username=ifrairshadmalikk&label=Profile%20views&color=0e75b6&style=flat" />
 
-</div>
+
+<p align="right">
+  <img src="https://github.com/ifrairshadmalikk/ifrairshadmalikk/blob/main/%E2%80%94Pngtree%E2%80%94purple%20star%20universe%20rocket%20nebula_6222115.png?raw=true" width="300" style="border-radius:12px;" />
+</p>
+
