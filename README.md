@@ -60,8 +60,8 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
-
 <p align="center">
-  <img src="https://pngtree.com/freepng/purple-star-universe-rocket-nebula_6222115.html" alt="Decorative Border" width="100%" />
+  <img src="https://github.com/ifrairshadmalikk/ifrairshadmalikk/blob/main/assets/tech-border.png?raw=true" width="100%" />
 </p>
+
 
