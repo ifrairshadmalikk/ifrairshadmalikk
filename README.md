@@ -1,7 +1,6 @@
-<!-- GitHub Profile README for Ifra Irshad Malik -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ifra+Irshad+Malik!;Full+Stack+Developer+from+Pakistan.;Passionate+about+MERN+Stack+%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=800&lines=Hi+I'm+Ifra+Irshad+Malik!;Full+Stack+Developer.;Passionate+about+MERN+Stack+%F0%9F%92%BB" alt="Typing SVG">
 </p>
 
 ---
@@ -9,6 +8,7 @@
 <h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB**
 
