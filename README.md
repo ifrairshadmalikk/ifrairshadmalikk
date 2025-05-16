@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://i.gifer.com/origin/1e/1e1d4d66753f48cbbf6de66bf4099a2e.gif" alt="Butterflies Animation" width="600" />
+<p align="justify">
+  <img src="https://i.pinimg.com/originals/2c/ac/d1/2cacd1d21f700e15b8f1e9baecb7ae02.gif" alt="Butterflies Animation" width="600" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <h3 align="center">A passionate Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB**
@@ -45,5 +45,5 @@
 
 ### ✨ GitHub Profile Visitors:
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ifrairshadmalik&label=Profile%20views&color=0e75b6&style=flat" alt="ifrairshadmalik" />
+  <img src="https://komarev.com/ghpvc/?username=mateenq&label=Profile%20views&color=0e75b6&style=flat" alt="mateenq" />
 </p>
