@@ -1,10 +1,12 @@
 <p align="justify">
-  <img src="https://i.pinimg.com/originals/2c/ac/d1/2cacd1d21f700e15b8f1e9baecb7ae02.gif" alt="Butterflies Animation" width="600" />
+  <img src="https://i.pinimg.com/originals/2c/ac/d1/2cacd1d21f700e15b8f1e9baecb7ae02.gif" alt="Butterflies Animation" width="350" />
 </p>
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=800&lines=Hi+I'm+Ifra+Irshad+Malik!;Full+Stack+Developer.;Passionate+about+MERN+Stack+%F0%9F%92%BB" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+I'm+Ifra+Irshad+Malik!;Full+Stack+Developer.;Passionate+about+MERN+Stack+%F0%9F%92%BB" alt="Typing SVG">
 </p>
+
 
 ---
 
@@ -45,5 +47,5 @@
 
 ### ✨ GitHub Profile Visitors:
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mateenq&label=Profile%20views&color=0e75b6&style=flat" alt="mateenq" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
