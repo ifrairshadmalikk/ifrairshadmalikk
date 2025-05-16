@@ -1,7 +1,8 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/ZYW3VTp/clouds-animation.gif" alt="cloud animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/main/Assets/Clouds.gif" alt="clouds animation" width="100%" />
 </p>
+
 <h1 align="center">Hi , I'm Ifra </h1>
 <h3 align="center">A passionate Full Stack Developer </h3>
 
