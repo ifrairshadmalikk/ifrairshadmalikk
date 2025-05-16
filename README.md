@@ -62,6 +62,6 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/474x/45/61/69/456169da45580511e0f26cd740edaee5.jpg" alt="Decorative Border" width="100%" />
+  <img src="https://pngtree.com/freepng/purple-star-universe-rocket-nebula_6222115.html" alt="Decorative Border" width="100%" />
 </p>
 
