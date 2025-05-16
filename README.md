@@ -60,9 +60,11 @@
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
 </p>
 
-<p align="right">
-  <img src="https://github.com/ifrairshadmalikk/ifrairshadmalikk/blob/main/%E2%80%94Pngtree%E2%80%94purple%20star%20universe%20rocket%20nebula_6222115.png?raw=true" alt="Galaxy Background" width="600"/>
 
+<hr/>
+
+<p align="center">
+  <img src="https://github.com/ifrairshadmalikk/ifrairshadmalikk/blob/main/%E2%80%94Pngtree%E2%80%94purple%20star%20universe%20rocket%20nebula_6222115.png?raw=true" alt="Galaxy Background" width="100%" style="border-radius: 12px;"/>
 </p>
 
 
