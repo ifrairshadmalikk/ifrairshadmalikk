@@ -1,10 +1,12 @@
+<!-- GitHub Profile README for Ifra Irshad Malik -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/main/Assets/Clouds.gif" alt="clouds animation" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7F50&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Ifra+Irshad+Malik!;Full+Stack+Developer+from+Pakistan.;Passionate+about+MERN+Stack+%F0%9F%92%BB" alt="Typing SVG">
 </p>
 
-<h1 align="center">Hi , I'm Ifra </h1>
-<h3 align="center">A passionate Full Stack Developer </h3>
+---
+
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -14,9 +16,9 @@
 
 - 💬 Ask me about **Web Development, MERN stack**
 
-- 📫 How to reach me **ifrairshadmalik@gmail.com**
+- 📫 How to reach me: **ifrairshadmalik@gmail.com**
 
-- ⚡ Fun fact **I love solving coding problems and watching tech documentaries**
+- ⚡ Fun fact: **I love solving coding problems and watching tech documentaries**
 
 ---
 
@@ -31,14 +33,14 @@
 
 ---
 
-### 📊 GitHub Stats:
+### 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&locale=en" alt="your-username" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ifrairshadmalikk&show_icons=true&theme=radical&locale=en" alt="ifrairshadmalikk GitHub stats" />
 </p>
 
 ---
 
 ### ✨ GitHub Profile Visitors:
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+  <img src="https://komarev.com/ghpvc/?username=ifrairshadmalikk&label=Profile%20views&color=0e75b6&style=flat" alt="ifrairshadmalikk" />
 </p>
