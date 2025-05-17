@@ -43,21 +43,4 @@
 
 
 
-<!-- Main GitHub stats card -->
-<img src="https://github-readme-stats.demolab.com?user=ManahilHabibb&count_private=true&theme=algolia&border_radius=20" alt="ManahilHabibb GitHub Stats" />
-
-
-<!-- Top languages card -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManahilHabibb&size_weight=1&count_weight=0&layout=compact&size_show_icons=true&theme=algolia&border_radius=20" alt="Top Languages" />
-
----
-
-<!-- Optional: Contribution calendar -->
-![GitHub Contributions](https://github.com/ManahilHabibb.png?tab=overview&from=2023-01-01&to=2023-12-31)
-
----
-
-<!-- Optional: Streak stats -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ManahilHabibb&theme=algolia&border_radius=20)
-
 
