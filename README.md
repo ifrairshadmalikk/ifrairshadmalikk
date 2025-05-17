@@ -40,6 +40,21 @@
 </p>
 
 
+<!-- Main GitHub stats card -->
+<img src="https://github-readme-stats.demolab.com?user=ifrairshadmalikk&count_private=true&theme=radical&border_radius=20&hide_border=true&text_color=ff69b4" alt="ifrairshadmalikk GitHub Stats" />
+
+
+
+<!-- Top languages card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifrairshadmalikk&size_weight=1&count_weight=0&layout=compact&size_show_icons=true&theme=radical&border_radius=20&hide_border=true&text_color=ff69b4" alt="Top Languages" />
+
+
+<!-- Contribution calendar -->
+![GitHub Contributions](https://github.com/ifrairshadmalikk.png?tab=overview&from=2023-01-01&to=2023-12-31)
+
+
+<!-- GitHub Streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ifrairshadmalikk&theme=radical&border_radius=20&hide_border=true&stroke=ff69b4)
 
 
 
