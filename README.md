@@ -1,6 +1,16 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/2c/ac/d1/2cacd1d21f700e15b8f1e9baecb7ae02.gif" alt="Butterflies Animation" width="190" />
-</p>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <title>3d-banner</title>
+    <link rel="shortcut icon " type="images/x-icon" href="/static/logo.png">
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+  </body>
+</html>
 
 
 <p align="center">
