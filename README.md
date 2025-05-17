@@ -1,4 +1,7 @@
-<div style="background-image: url('https://slidechef.net/wp-content/uploads/2024/01/aesthetic-minimalist-background.jpg'); background-size: cover; background-position: center; padding: 20px; border-radius: 12px;">
+<p align="center">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/028/610/001/small/beige-wavy-corner-fluid-corner-illustration-suitable-for-background-layout-banner-free-png.png" width="100%" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=Hi+I'm+Ifra+Irshad+Malik!;Full+Stack+Developer.;Passionate+about+MERN+Stack+%F0%9F%92%BB" alt="Typing SVG">
@@ -20,7 +23,7 @@
 
 ### ✨ GitHub Profile Visitors:
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ifrairshadmalikk&label=Profile%20views&color=0e75b6&style=flat" alt="ifrairshadmalikk" />
+  <img src="https://komarev.com/ghpvc/?username=username&label=Profile%20views&color=0e75b6&style=flat" alt="." />
 </p>
 
-</div>
+
