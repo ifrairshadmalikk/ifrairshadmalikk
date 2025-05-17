@@ -3,6 +3,11 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=DA70D6&center=true&vCenter=true&width=800&lines=Hi+I'm+Ifra+Irshad+Malik!;Full+Stack+Developer.;Passionate+about+MERN+Stack+%F0%9F%92%BB" alt="Typing SVG">
+
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+</p>
 </p
 
 - 🌱 I’m currently learning **React, Node.js, MongoDB**  
@@ -13,7 +18,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
----
+### Languages and Tools
 
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
@@ -34,13 +39,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Full Stack" width="40" height="40"/>
 </p>
 
+
+
+
+
+<!-- Main GitHub stats card -->
+<img src="https://github-readme-stats.demolab.com?user=ManahilHabibb&count_private=true&theme=algolia&border_radius=20" alt="ManahilHabibb GitHub Stats" />
+
+
+<!-- Top languages card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManahilHabibb&size_weight=1&count_weight=0&layout=compact&size_show_icons=true&theme=algolia&border_radius=20" alt="Top Languages" />
+
 ---
 
-### 📈 GitHub Stats:
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ifrairshadmalikk&show_icons=true&theme=radical&locale=en" alt="ifrairshadmalikk GitHub stats" />
-</p>
+<!-- Optional: Contribution calendar -->
+![GitHub Contributions](https://github.com/ManahilHabibb.png?tab=overview&from=2023-01-01&to=2023-12-31)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
-</p>
+---
+
+<!-- Optional: Streak stats -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ManahilHabibb&theme=algolia&border_radius=20)
+
+
