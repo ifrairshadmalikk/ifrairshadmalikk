@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://static.vecteezy.com/system/resources/thumbnails/028/610/001/small/beige-wavy-corner-fluid-corner-illustration-suitable-for-background-layout-banner-free-png.png" width="100%" />
-</p>
+
+![logo](https://static.vecteezy.com/system/resources/thumbnails/028/610/001/small/beige-wavy-corner-fluid-corner-illustration-suitable-for-background-layout-banner-free-png.png)
 
 
 <p align="center">
