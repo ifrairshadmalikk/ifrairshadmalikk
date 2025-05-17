@@ -40,7 +40,7 @@
 </p>
 
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ifrairshadmalikk&show_icons=true&theme=radical&locale=en" alt="ifrairshadmalikk GitHub stats" width="300" style="margin-right: 20px;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifrairshadmalikk&size_weight=1&count_weight=0&layout=compact&size_show_icons=true&theme=radical&border_radius=20&hide_border=true&text_color=ff69b4" alt="Top Languages" width="300" style="margin-right: 20px;" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ifrairshadmalikk&theme=radical&border_radius=20&hide_border=true&stroke=ff69b4" alt="GitHub Streak" width="300" />
