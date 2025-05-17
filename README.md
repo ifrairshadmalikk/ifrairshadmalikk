@@ -40,9 +40,9 @@
 </p>
 
 
-<!-- Main GitHub stats card -->
-<img src="https://github-readme-stats.demolab.com?user=ifrairshadmalikk&count_private=true&theme=radical&border_radius=20&hide_border=true&text_color=ff69b4" alt="ifrairshadmalikk GitHub Stats" />
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ifrairshadmalikk&show_icons=true&theme=radical&locale=en" alt="ifrairshadmalikk GitHub stats" />
+</p>
 
 
 <!-- Top languages card -->
