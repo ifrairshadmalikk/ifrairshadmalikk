@@ -15,7 +15,7 @@
 - ⚡ Fun fact: **I love solving coding problems and watching tech documentaries**
 
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
-
+---
 <p align="left"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
@@ -35,8 +35,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Full Stack" width="40" height="40"/>
 </p>
 
-
-
+---
 ### 📈 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=ifrairshadmalikk&show_icons=true&theme=radical&locale=en" alt="ifrairshadmalikk GitHub stats" />
